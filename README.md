@@ -164,7 +164,7 @@ int main() {
 ```
 # Output:
 
-<img width="1644" height="812" alt="image" src="https://github.com/user-attachments/assets/4edbb191-cdda-44ad-b718-7e8543ae17f6" />
+<img width="1707" height="814" alt="image" src="https://github.com/user-attachments/assets/335674da-501f-4bc6-a58e-46ebbc0a4f78" />
 
 
 # Result: 
